@@ -1,13 +1,13 @@
-# Techtree
+# Azure DevOps Techtree
 
-# Azure DevOps Documentation
+Welcome to the Azure DevOps tree structure. Explore the different sections below:
 
-Welcome to the Azure DevOps documentation. Below you'll find an overview of various components.
-
-## [Overview](overview.md)
-## [Boards](boards.md)
-## [Repos](repos.md)
-## [Pipelines](pipelines.md)
-## [Test Plans](test-plans.md)
-## [Artifacts](artifacts.md)
-## [Project Settings](project-settings.md)
+- [Tree](tree.md)
+- [Overview](overview.md)
+- [Boards](boards.md)
+- [Repos](repos.md)
+- [Pipelines](pipelines.md)
+- [Test Plans](test-plans.md)
+- [Artifacts](artifacts.md)
+- [Project Settings](project-settings.md)
+- [Profile Settings](profile-settings.md)
