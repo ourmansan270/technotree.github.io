@@ -1,0 +1,6 @@
+title: Azure DevOps Documentation
+description: Documentation for Azure DevOps features and configurations.
+theme: jekyll-theme-cayman
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
