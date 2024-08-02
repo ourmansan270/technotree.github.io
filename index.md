@@ -20,6 +20,7 @@ Welcome to the Azure DevOps tree structure. Explore the different sections below
 
 ## [Azure KeyVault Tree](azurekeyvault.md)
 
-- [Artifacts](artifacts.md)
-- [Project Settings](project-settings.md)
+## [Maven Tree](maventree.md)
+
+## [SonarQube Tree](sonarqubetree.md)
 
