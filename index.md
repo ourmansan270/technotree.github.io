@@ -10,7 +10,8 @@ Welcome to the Azure DevOps tree structure. Explore the different sections below
 
 ## [Git Tree](gittree.md)
 
-- [Boards](boards.md)
+## [Linux Tree](linux.md)
+    
 - [Repos](repos.md)
 - [Pipelines](pipelines.md)
 - [Test Plans](test-plans.md)
