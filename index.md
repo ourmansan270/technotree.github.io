@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Home
+title: Technotree
 ---
-# Azure DevOps Techtree
+# Tree structure for technologies 
 
 Welcome to the Azure DevOps tree structure. Explore the different sections below:
 
-- [Tree](tree.md)
+## [Azure DevOps Tree](tree.md)
+
 - [Overview](overview.md)
 - [Boards](boards.md)
 - [Repos](repos.md)
