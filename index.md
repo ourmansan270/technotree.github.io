@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 # Azure DevOps Techtree
 
 Welcome to the Azure DevOps tree structure. Explore the different sections below:
