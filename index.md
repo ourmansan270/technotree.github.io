@@ -12,8 +12,10 @@ Welcome to the Azure DevOps tree structure. Explore the different sections below
 
 ## [Linux Tree](linuxtree.md)
 
-- [Repos](repos.md)
-- [Pipelines](pipelines.md)
+## [Pythin Tree](pythontree.md)
+
+## [Docker Tree](dockertree.md)
+
 - [Test Plans](test-plans.md)
 - [Artifacts](artifacts.md)
 - [Project Settings](project-settings.md)
