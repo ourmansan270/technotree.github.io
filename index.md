@@ -18,6 +18,8 @@ Welcome to the Azure DevOps tree structure. Explore the different sections below
 
 ## [K8s Tree](kubernetestree.md)
 
+## [Azure KeyVault Tree](azurekeyvault.md)
+
 - [Artifacts](artifacts.md)
 - [Project Settings](project-settings.md)
-- [Profile Settings](profile-settings.md)
+
