@@ -354,8 +354,7 @@ Microsoft 365 Admin Center
 |   |       └── Manage Settings
 |   |           ├── Update Security Settings
 |
-
-   |           └── Review Configurations
+|           └── Review Configurations
 |   ├── Security Info
 |   |   ├── View Security Info
 |   |   |   ├── Current Info
