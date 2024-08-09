@@ -1,5 +1,5 @@
 # Azure Landing Zone
-
+![Architecture Diagram](azurelandingzone.svg)
 ## Architecture Design
 - **Subscription Management**
   - **Management Groups**
@@ -113,3 +113,6 @@
   - **Patch Policies**
     - Scheduled Updates: Schedule updates for regular patching.
     - Automated Patch Application: Automate the application of patches.
+
+
+
