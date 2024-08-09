@@ -24,3 +24,10 @@ Welcome to the Azure DevOps tree structure. Explore the different sections below
 
 ## [SonarQube Tree](sonarqubetree.md)
 
+## [Azure Monitor](azuremonitor.md)
+
+## [Azure EventGrid](azureeventgrid.md)
+
+## [Azure Landing Zone](azurelandingzone.md)
+
+
