@@ -1,5 +1,5 @@
 # Azure Landing Zone
-![Architecture Diagram](azurelandingzone.svg)
+![Diagram](azurelandingzone.png)
 ## Architecture Design
 - **Subscription Management**
   - **Management Groups**
